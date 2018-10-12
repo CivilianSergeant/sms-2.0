@@ -1,0 +1,10 @@
+.idea
+/data
+/vendor
+/app/storage/sessions/*
+/app/storage/views/*
+/app/storage/logs/*
+
+error_log
+sms-result.xml
+sms.*
